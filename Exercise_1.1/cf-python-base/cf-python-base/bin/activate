@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/benphillips/Desktop/CareerFoundry/cf-python-base/cf-python-base"
+VIRTUAL_ENV="/Users/benphillips/Desktop/CareerFoundry/cf-python-course/Exercise_1.1/cf-python-base/cf-python-base"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
